@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "vidly_jwtPrivateKey",
+  "db": "mongodb+srv://neil:1234@cluster1-gnrw7.mongodb.net/test?retryWrites=true"
+}
